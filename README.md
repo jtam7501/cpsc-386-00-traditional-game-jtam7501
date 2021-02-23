@@ -3,6 +3,9 @@ All that is needed is a deck of cards, two dice, a piece of paper, and of course
 Players will battle each other with cards of different stats and abilities. There are four classes to choose from: Warrior (Spades),
 Berserker (Clubs), Gambler (Diamonds) and Paladin (Hearts). Two players compete in a series of 1v1 battles and only one player will remain victorious.
 
+## Background
+This game is inspired by various RPGs such as D&D and Fire Emblem with its different classes and combat.
+
 ## Rules
 Two players take turns drawing a card from the deck, totaling to 5 cards per player. Then, players roll a die to determine
 who goes first. The highest number rolled wins, but if there is a tie, then reroll until there is a winner.
@@ -12,6 +15,8 @@ to counter their opponent. Player 1 chooses an action, then Player 2 chooses an 
 chosen their actions. Afterwards, the Players alternate who chooses an action first until the battle is done.
 The battle is done once a player's card's health reaches 0.
 The game is decided by a best of 5 match. However, if a quicker game is needed, then it can be a best of 3 match with 3 cards per player.
+
+![A Paladin facing against a Berserker](images/BnBgameplay.jpg)
 
 ### Actions
 Four types of actions: Attack, Defend, Dodge, Ability
@@ -30,15 +35,19 @@ Four types of actions: Attack, Defend, Dodge, Ability
 Four type of stats: Health, Attack, Defense, Speed
 Total Stats: 120
 
+![Warrior](warrior.png)
 #### \[Warrior\] Health: 50, Attack: 30, Defense: 20, Speed: 20
 	  Ability: [Dual Strike] Attacks twice in one turn. If opponent uses defend or dodge, only the first attack is affected.
 
+![Paladin](paladin2.png)
 #### \[Paladin\] Health: 60, Attack: 20, Defense: 30, Speed: 10
 	  Ability: [War Prayer] Heal for 15 Health and an additional action is taken. Cannot heal above max health.
 
+![Berserker](berserker2.png)
 #### \[Berserker\] Health: 80, Attack: 40, Defense: 0, Speed: 0
 	  Ability: [Bloodlust] Survive a fatal attack and perform a counter-attack at half damage.
-		   
+
+![Gambler](gambler.png)		   
 #### \[Gambler\] Health: 50, Attack 30, Defense: 10, Speed: 30
 	  Ability: [All-in] Ignore opponent's defend or dodge action. Perform a normal attack action and afterwards, roll two dice again. If the total is less than 7, deal 15 damage.
-		   If the total is 7 or greater, deal 30 damage
+		   If the total is 7 or greater, deal 30 damage.
