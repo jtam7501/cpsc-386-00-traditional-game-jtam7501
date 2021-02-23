@@ -35,19 +35,18 @@ Four types of actions: Attack, Defend, Dodge, Ability
 Four type of stats: Health, Attack, Defense, Speed
 Total Stats: 120
 
-![Warrior](warrior.png)
+
 #### \[Warrior\] Health: 50, Attack: 30, Defense: 20, Speed: 20
 	  Ability: [Dual Strike] Attacks twice in one turn. If opponent uses defend or dodge, only the first attack is affected.
 
-![Paladin](paladin2.png)
+
 #### \[Paladin\] Health: 60, Attack: 20, Defense: 30, Speed: 10
 	  Ability: [War Prayer] Heal for 15 Health and an additional action is taken. Cannot heal above max health.
 
-![Berserker](berserker2.png)
+
 #### \[Berserker\] Health: 80, Attack: 40, Defense: 0, Speed: 0
 	  Ability: [Bloodlust] Survive a fatal attack and perform a counter-attack at half damage.
-
-![Gambler](gambler.png)		   
+	   
 #### \[Gambler\] Health: 50, Attack 30, Defense: 10, Speed: 30
 	  Ability: [All-in] Ignore opponent's defend or dodge action. Perform a normal attack action and afterwards, roll two dice again. If the total is less than 7, deal 15 damage.
 		   If the total is 7 or greater, deal 30 damage.
