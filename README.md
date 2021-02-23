@@ -43,14 +43,14 @@ Total Stats: 130
 	  Ability: [Dual Strike] Attacks twice in one turn. For the second attack, the opponent suffers a -10 penalty to their defense for that turn only. If opponent uses defend or dodge, only the first attack is affected.
 
 ![Paladin](images/paladin2.png)	
-#### \[Paladin\] Health: 60, Attack: 30, Defense: 30, Speed: 10
+#### \[Paladin\] Health: 60, Attack: 25, Defense: 35, Speed: 10
 	  Ability: [War Prayer] Heal for 15 Health and an additional action is taken. Cannot heal above max health.
 
 ![Berserker](images/berserker2.png)	
 #### \[Berserker\] Health: 80, Attack: 40, Defense: 0, Speed: 10
 	  Ability: [Bloodlust] Survive a fatal attack and perform a counter-attack at half damage.
 ![Gambler](images/gambler.png)		   
-#### \[Gambler\] Health: 45, Attack 30, Defense: 15, Speed: 40
+#### \[Gambler\] Health: 50, Attack 25, Defense: 15, Speed: 40
 	  Ability: [All-in] Ignore opponent's defend or dodge action. Perform a normal attack action and afterwards, roll two dice again. If the total is less than 7, deal 15 damage.
 		   If the total is 7 or greater, deal 30 damage.
 
@@ -58,3 +58,7 @@ Total Stats: 130
 The Warrior is a jack-of-all-trades class and can perform reasonably well in most situations.
 The remaining three classes are more specialized, with the Paladin being able to tank damage, the Berserker to deal massive damage, and the Gambler to have
 the potential to deal big damage and dodge attacks.
+Berserkers can give Gamblers and Warriors a hard time, but Paladins can deal with them due to high defense.
+However, Paladins can't deal as much damage. Gamblers have low defense, but have a higher chance of dodging.
+Berserkers have a lot of health, but they don't have defense and can't dodge.
+Use abilities at the right time to give yourself an advantage.
